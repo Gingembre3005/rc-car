@@ -11,7 +11,9 @@ I built the car with only parts and materials I already have at home.
 The body of the car will be built with cardboard and wood. The steering system will be built out of Legos. 
 You can find the electronics cost in the BOM.csv, but you should already have a lot of the building components and the TV remote. 
 
+## OnShape model link:
 
+https://cad.onshape.com/documents/c4b2f6b1dcfbd659fe523a61/w/d48743c1293dae1c36f29f0a/e/a08f485d04c78471bb069dba
 
 ## Firmware:
 
